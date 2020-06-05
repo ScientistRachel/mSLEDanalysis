@@ -17,8 +17,8 @@ Required user inputs for each script are further described in each file.  The sc
     * `find_dF_dist_all_v2.m` analyzes dF/F as a function of distance from the scratch.
 5. Optional scripts to make additional plots or provide additional information are:
     * `plot_kymo_publicationFormat.m` creates kymographs with large fonts suitable for publication (requires output from `find_tip_all.m`).
-    * `plot_dF_all_v2.m` combines multiple relicates into a single figure with error bars (requires `boundedline.m` and and output from `find_dF_all_v2.m`).
-    * `plot_dF_dist_all_v3.m` combines multiple relicates into a single figure with error bars (requires `boundedline.m` and output from `find_dF_dist_all_v2.m`).
+    * `plot_dF_all_v2.m` combines multiple replicates into a single figure with error bars (requires `boundedline.m` and output from `find_dF_all_v2.m`).
+    * `plot_dF_dist_all_v3.m` combines multiple replicates into a single figure with error bars (requires `boundedline.m` and output from `find_dF_dist_all_v2.m`).
     * `report_values.m` reports summary statistics on dF/F to the command window (requires output from `find_dF_all_v2.m` and `find_dF_dist_all_v2.m`).
 
 ## Demo
