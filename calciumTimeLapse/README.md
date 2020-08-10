@@ -1,5 +1,5 @@
 # calciumTimeLapse
-This module of SLEDanalysis measures fluorescent calcium dynamics in a cell monolayer in response to a stimulus.  These analyses were originally described in a publication by Pratt, et al. that studied calcium in response to monolayer scratching:
+This module of mSLEDanalysis measures fluorescent calcium dynamics in a cell monolayer in response to a stimulus.  These analyses were originally described in a publication by Pratt, et al. that studied calcium in response to monolayer scratching:
 > S. J. Pratt, E. O. Hernández-Ochoa, R. M. Lee, E. C. Ory, J. S. Lyons, H. C. Joca, A. Johnson, K. Thompson, P. Bailey, C. J. Lee, T. Mathias, M. I. Vitolo, M. Trudeau, J. P. Stains, C. W. Ward, M. F. Schneider, and S. S. Martin. _Real-time scratch assay reveals mechanisms of early calcium signaling in breast cancer cells in response to wounding_. Oncotarget, 9:25008-25024, 2018. [doi:10.18632/oncotarget.25186](http://dx.doi.org/10.18632/oncotarget.25186)
 
 ## Dependencies
