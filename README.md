@@ -1,6 +1,6 @@
-# Analyzing Images of *S*cratch on *L*ow *E*lastic *D*ishes (SLED)
+# Analyzing *M*echanical *S*timulation on *L*ow *E*lastic Modulus *D*ishes (mSLED)
 
-This code was developed to measure responses of a cell monolayer to SLED.  The code is separated into modules which can be run separately as desired.  The scripts save .mat files and image files of figures as output.  Those .mat files can be used to further compare the output of the different modules. For example, the dF/F measurements from _calciumTimeLapse_ can be compared to the cell death measurements from _PI_staining_.  These analyses were used to investigate mechanotransduction in breast cancer cells by Pratt, et al., which should be cited in further use of this code:
+This code was developed to measure responses of a cell monolayer to mSLED.  The code is separated into modules which can be run separately as desired.  The scripts save .mat files and image files of figures as output.  Those .mat files can be used to further compare the output of the different modules. For example, the dF/F measurements from _calciumTimeLapse_ can be compared to the cell death measurements from _PI_staining_.  These analyses were used to investigate mechanotransduction in breast cancer cells by Pratt, et al., which should be cited in further use of this code:
 > S.J. Pratt , R. M. Lee , K. T. Chang , E. O. Hernández-Ochoa , D. A. Annis , E. C. Ory , K. N. Thompson , P. C. Bailey , T. J. Mathias , J. A. Ju , M. I. Vitolo , M. F. Schneider , J. P. Stains , C. W. Ward , and S. S. Martin. _Mechanoactivation of NOX2-generated ROS elicits persistent TRPM8 Ca<sup>2+</sup> signals that are inhibited by oncogenic KRas_. 2020.
 
 ## Dependencies
