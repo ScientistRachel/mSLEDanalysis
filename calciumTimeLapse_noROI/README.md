@@ -1,5 +1,5 @@
 # calciumTimeLapse_noROI
-This module of SLEDanalysis measures fluorescent calcium dynamics in a cell monolayer in response to a uniform stimulus (e.g. H<sub>2</sub>O<sub>2</sub>).  These analyses are very similar to the analyses described in the calciumTimeLapse module, but do not use ROIs to subdivide the analysis.
+This module of mSLEDanalysis measures fluorescent calcium dynamics in a cell monolayer in response to a uniform stimulus (e.g. H<sub>2</sub>O<sub>2</sub>).  These analyses are very similar to the analyses described in the calciumTimeLapse module, but do not use ROIs to subdivide the analysis.
 
 ## Dependencies
 - The script `convertOIB_timeLapse.m` relies on OME's Bio-Format's toolbox for MATLAB to open the .oib microscope files.  See the OME website for more details: [https://www.openmicroscopy.org/bio-formats/downloads/](https://www.openmicroscopy.org/bio-formats/downloads/).
