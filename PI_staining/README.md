@@ -1,5 +1,5 @@
 # PI_staining
-This module of SLEDanalysis measures changes in propidium iodide (PI) staining across two images (e.g. images before and after scratching).  It is assumed that there is no translation of the sample between images.  If the sample was moved between imaging, the images would need to be registered before further analysis.  Images must be captured with the same acquisition parameters for this analysis to be meaningful.
+This module of mSLEDanalysis measures changes in propidium iodide (PI) staining across two images (e.g. images before and after scratching).  It is assumed that there is no translation of the sample between images.  If the sample was moved between imaging, the images would need to be registered before further analysis.  Images must be captured with the same acquisition parameters for this analysis to be meaningful.
 
 ## Dependencies
 The script `convertOIB_multiChannel.m` relies on OME's Bio-Format's toolbox for MATLAB to open the .oib microscope files.  See the OME website for more details: [https://www.openmicroscopy.org/bio-formats/downloads/](https://www.openmicroscopy.org/bio-formats/downloads/).
