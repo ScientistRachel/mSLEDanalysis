@@ -1,5 +1,5 @@
 # indentationDepth
-This module of SLEDanalysis measures the indentation depth of the mSLED stimulus based on a fluorescent z-stack.  This indentation depth is further used to calculate an approximate applied force using Herztian contact mechanics.  The force calculation is approximate as it is based on the assumption that the cell monolayer's contribution to the deformation is negligible compared to the elastic modulus of the soft elastic dish.  This force calculation is based on the equation for a rigid sphere indenter in:
+This module of mSLEDanalysis measures the indentation depth of the mSLED stimulus based on a fluorescent z-stack.  This indentation depth is further used to calculate an approximate applied force using Herztian contact mechanics.  The force calculation is approximate as it is based on the assumption that the cell monolayer's contribution to the deformation is negligible compared to the elastic modulus of the soft elastic dish.  This force calculation is based on the equation for a rigid sphere indenter in:
 > C.T. McKee, J.A. Last, P. Russell, C.J. Murphy. _Indentation versus tensile measurements of Young's modulus for soft biological tissues_. Tissue Eng Part B Rev 2011, 17(3):155-164. [doi:10.1089/ten.teb.2010.0520]().
 
 ## Dependencies
