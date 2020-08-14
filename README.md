@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/269167429.svg)](https://zenodo.org/badge/latestdoi/269167429)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Analyzing *M*echanical *S*timulation on *L*ow *E*lastic Modulus *D*ishes (mSLED)
 
 This code was developed to measure responses of a cell monolayer to mSLED.  The code is separated into modules which can be run separately as desired.  The scripts save .mat files and image files of figures as output.  Those .mat files can be used to further compare the output of the different modules. For example, the dF/F measurements from _calciumTimeLapse_ can be compared to the cell death measurements from _PI_staining_.  These analyses were used to investigate mechanotransduction in breast cancer cells by Pratt, et al., which should be cited in further use of this code:
